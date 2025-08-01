@@ -9,11 +9,11 @@ Step by step analysis of real phishing emails; Email header & metadata checks, U
 
 Tools Used
 
-VirusTotal
+**VirusTotal : **
 AbuseIPDB
 Symantec Bluecoat
 Sucuri SiteCheck
 
-Author
+**Author : **
 Salau Farouk Ademola
 Report Date: July 30, 2025
